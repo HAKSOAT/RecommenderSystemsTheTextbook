@@ -1,0 +1,8 @@
+[
+    {"Id":1,"Name":"Build your own computer","UnitPrice":100},
+    {"Id":2,"Name":"Build your own computer","UnitPrice":1200},
+    {"Id":3,"Name":"Build your own computer","UnitPrice":200},
+    {"Id":4,"Name":"Build your own computer","UnitPrice":120},
+    {"Id":5,"Name":"Build your own computer","UnitPrice":102},
+    {"Id":6,"Name":"Build your own computer","UnitPrice":2100}
+]
